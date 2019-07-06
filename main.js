@@ -1,3 +1,4 @@
+// javascript code for index.html 
 const config = {
     ".chosen-select": {},
     ".chosen-select-deselect": {
