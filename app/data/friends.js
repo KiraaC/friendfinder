@@ -1,7 +1,7 @@
 let friends = [
     {
-        name: "Ahmed",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+        name: "Ted Tran",
+    photo: "https://www.pexels.com/photo/men-s-wearing-black-suit-jacket-and-pants-937481/",
     scores: [
       "5",
       "1",
@@ -16,7 +16,7 @@ let friends = [
     ]
   },
   {
-    name: "Jacob Deming",
+    name: "Sammy Gibson",
     photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
     scores: [
       "4",
@@ -32,8 +32,8 @@ let friends = [
     ]
   },
   {
-    name: "Jeremiah Scanlon",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    name: "Jessie Coleman",
+    photo: "https://www.pexels.com/photo/silhouette-photo-of-person-standing-in-neon-lit-hallway-1722072/",
     scores: [
       "5",
       "2",
@@ -48,8 +48,8 @@ let friends = [
     ]
   },
   {
-    name: "Louis T. Delia",
-    photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+    name: "Oleg Magni",
+    photo: "https://www.pexels.com/photo/group-of-people-standing-on-beach-shore-1427741/",
     scores: [
       "3",
       "3",
@@ -64,8 +64,8 @@ let friends = [
     ]
   },
   {
-    name: "Lou Ritter",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    name: "Sara Rider",
+    photo: "https://pixabay.com/sk/photos/fashion-%C5%BEena-dospel%C3%BD-kr%C3%A1sa-model-1063100/",
     scores: [
       "4",
       "3",
@@ -80,8 +80,8 @@ let friends = [
     ]
   },
   {
-    name: "Jordan Biason",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    name: "Dan Diego",
+    photo: "https://pixabay.com/sk/photos/gitarista-akustick%C3%A1-gitara-mu%C5%BE-407212/",
     scores: [
       "4",
       "4",
