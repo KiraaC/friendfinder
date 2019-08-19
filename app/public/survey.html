@@ -221,7 +221,7 @@
       if (validateForm()) {
         var userData = {
           name: $("#name").val(),
-          photo: $("#photo").val(),
+          // photo: $("#photo").val(),
           scores: [
             $("#q1").val(),
             $("#q2").val(),
@@ -239,7 +239,7 @@
         $.post("/api/friends", userData, function (data) {
 
           $("#match-name").text(data.name);
-          $("#match-img").attr("src", data.photo);
+          // $("#match-img").attr("src", data.photo);
           $("#results-modal").modal("toggle");
 
         });
